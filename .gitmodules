@@ -1,0 +1,3 @@
+[submodule "Drea/vendor/spdlog"]
+	path = Drea/vendor/spdlog
+	url = https://github.com/gabime/spdlog
